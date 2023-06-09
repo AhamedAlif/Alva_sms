@@ -15,10 +15,10 @@ Alva Bomber CLI is a Python script that allows users to send multiple SMS bomb r
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/alva-bomber-cli.git
+git clone https://github.com/AhamedAlif/Alva_sms/tree/main
 
 2. Change into the project directory:
-cd alva-bomber-cli
+cd Alva-sms
 
 3. Install the required dependencies:
 pip install -r requirements.txt
